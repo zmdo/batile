@@ -1,0 +1,25 @@
+##################
+#    ra2 test    #
+##################
+models_config:
+    name: ra2test
+    tile_size: (60,30)
+
+models:
+    - id: 200011
+      name: ceshi
+      occupied_rows: 3
+      occupied_cols: 2
+      model_height: 90
+      occupied_matrix: [1,1,1,1,1,0]
+      drawable_matrix: [1,1,1,1,1,0]
+      texture_id: 20001
+      texture_region: (0,0,180,150)
+      
+    - id: 200012
+      name: whitehouse
+      occupied_rows: 4
+      occupied_cols: 3
+      model_height: 32
+      texture_id: 20002
+      texture_region: (0,0,179,137)

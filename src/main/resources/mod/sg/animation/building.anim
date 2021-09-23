@@ -1,0 +1,25 @@
+animation_config:
+    name: building_anim
+    default_duration: 200
+    loop: true
+frames:
+    - model_id: 300010001
+      duration: 200
+    - model_id: 300010002
+      duration: 200
+    - model_id: 300010003
+      duration: 200
+    - model_id: 300010004
+      duration: 200
+    - model_id: 300010005
+      duration: 200
+    - model_id: 300010006
+      duration: 200
+    - model_id: 300010005
+      duration: 200
+    - model_id: 300010004
+      duration: 200
+    - model_id: 300010003
+      duration: 200
+    - model_id: 300010002
+      duration: 200

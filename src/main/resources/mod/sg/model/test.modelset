@@ -1,0 +1,23 @@
+##################
+#      test      #
+##################
+models_config:
+    name: test
+    tile_size: (214,107)
+
+models:
+    - id: 100133
+      name: test
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 51
+      texture_id: 10013
+      texture_region: (0,0,214,159)
+      
+    - id: 100143
+      name: test2
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 107
+      texture_id: 10014
+      texture_region: (0,0,214,214)

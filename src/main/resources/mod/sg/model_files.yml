@@ -1,0 +1,14 @@
+model_files:
+
+     ##############
+     #   Models   #
+     ##############
+     - path: model/building.modelset
+     - path: model/terrain.modelset
+     - path: model/test.modelset
+     - path: model/ra2.modelset
+     
+     ##############
+     # Animations #
+     ##############
+     - path: animation/building_anim.modelset

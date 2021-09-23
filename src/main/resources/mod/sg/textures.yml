@@ -1,0 +1,80 @@
+textures:
+   ###################
+   # terrain texture #
+   ###################
+    - id: 10000
+      name: city_npc
+      path: model/terrain/terrain_city_npc.png
+    - id: 10001
+      name: city0
+      path: model/terrain/terrain_city.png
+    - id: 10002
+      name: city1
+      path: model/terrain/terrain_city1.png
+    - id: 10003
+      name: city5
+      path: model/terrain/terrain_city2.png
+    - id: 10004
+      name: city3
+      path: model/terrain/terrain_city3.png
+    - id: 10005
+      name: city4
+      path: model/terrain/terrain_city4.png
+    - id: 10006
+      name: desert
+      path: model/terrain/terrain_desert.png
+    - id: 10007
+      name: forest
+      path: model/terrain/terrain_forest.png
+    - id: 10008
+      name: grass
+      path: model/terrain/terrain_grass.png
+    - id: 10009
+      name: hill
+      path: model/terrain/terrain_hill.png
+    - id: 10010
+      name: lake
+      path: model/terrain/terrain_lake.png
+    - id: 10011
+      name: land
+      path: model/terrain/terrain_land.png
+    - id: 10012
+      name: swamp
+      path: model/terrain/terrain_swamp.png
+    - id: 10013
+      name: test
+      path: model/terrain/terrain_test.png
+    - id: 10014
+      name: test2
+      path: model/terrain/terrain_test2.png
+
+
+    - id: 20001
+      name: ra2test1
+      path: model/ra2/ceshi.png
+    - id: 20002
+      name: ra2test2
+      path: model/ra2/whitehouse.png   
+      
+   #####################
+   # animation texture #
+   #####################
+    - id: 30001
+      name: building_anim1
+      path: animation/building/building_anim1.png
+    - id: 30002
+      name: building_anim2
+      path: animation/building/building_anim2.png
+    - id: 30003
+      name: building_anim3
+      path: animation/building/building_anim3.png
+    - id: 30004
+      name: building_anim4
+      path: animation/building/building_anim4.png
+    - id: 30005
+      name: building_anim5
+      path: animation/building/building_anim5.png
+    - id: 30006
+      name: building_anim6
+      path: animation/building/building_anim6.png 
+         

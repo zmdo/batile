@@ -1,0 +1,52 @@
+models_config:
+    name: building_animation
+    tile_size: (288,144)
+
+models:
+    - id: 300010001
+      name: building_anim1
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 113
+      texture_id: 30001
+      texture_region: (0,0,288,257)
+      
+    - id: 300010002
+      name: building_anim2
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 113
+      texture_id: 30002
+      texture_region: (0,0,288,257)
+
+    - id: 300010003
+      name: building_anim3
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 113
+      texture_id: 30003
+      texture_region: (0,0,288,257)
+      
+    - id: 300010004
+      name: building_anim4
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 113
+      texture_id: 30004
+      texture_region: (0,0,288,257)
+
+    - id: 300010005
+      name: building_anim5
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 113
+      texture_id: 30005
+      texture_region: (0,0,288,257)
+      
+    - id: 300010006
+      name: building_anim6
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 113
+      texture_id: 30006
+      texture_region: (0,0,288,257)

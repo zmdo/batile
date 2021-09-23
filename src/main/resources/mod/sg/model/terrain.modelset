@@ -1,0 +1,64 @@
+##################
+#    terrain     #
+##################
+models_config:
+    name: default_terrain
+    tile_size: (107,54)
+
+models:
+
+    - id: 100061
+      name: desert
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 0
+      texture_id: 10006
+      texture_region: (0,20,107,54)
+            
+    - id: 100071
+      name: forest
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 21
+      texture_id: 10007
+      texture_region: (0,0,107,75)
+            
+    - id: 100081
+      name: grass
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 0
+      texture_id: 10008
+      texture_region: (0,20,107,54)
+            
+    - id: 100091
+      name: hill
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 21
+      texture_id: 10009
+      texture_region: (0,0,107,75)
+
+    - id: 100101
+      name: lake
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 0
+      texture_id: 10010
+      texture_region: (0,20,107,75)
+
+    - id: 100111
+      name: land
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 0
+      texture_id: 10011
+      texture_region: (0,20,107,75)
+            
+    - id: 100121
+      name: swamp
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 0
+      texture_id: 10012
+      texture_region: (0,20,107,75)

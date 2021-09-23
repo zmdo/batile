@@ -1,0 +1,73 @@
+##################
+#    terrain     #
+##################
+models_config:
+    name: default_building
+    tile_size: (107,54)
+
+models:
+    - id: 100001
+      name: city_npc
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 21
+      texture_id: 10000
+      texture_region: (0,0,107,75)
+      
+    - id: 100011
+      name: city0
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 21
+      texture_id: 10001
+      texture_region: (0,0,107,75)
+      
+    - id: 100021
+      name: city1
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 21
+      texture_id: 10002
+      texture_region: (0,0,107,75)
+           
+    - id: 100031
+      name: city5
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 21
+      texture_id: 10003
+      texture_region: (0,0,107,75)
+            
+    - id: 100041
+      name: city3
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 21
+      texture_id: 10004
+      texture_region: (0,0,107,75)
+            
+    - id: 100051
+      name: city4
+      occupied_rows: 1
+      occupied_cols: 1
+      model_height: 21
+      texture_id: 10005
+      texture_region: (0,0,107,75)
+      
+    - id: 100132
+      name: test
+      occupied_rows: 2
+      occupied_cols: 2
+      model_height: 51
+      texture_id: 10013
+      texture_region: (0,0,214,159)
+      
+    - id: 100142
+      name: test2
+      occupied_rows: 2
+      occupied_cols: 2
+      model_height: 106
+      occupied_matrix: [1,1,1,1]
+      drawable_matrix: [1,1,1,1]
+      texture_id: 10014
+      texture_region: (0,0,214,214)
